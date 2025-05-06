@@ -1,0 +1,33 @@
+* {
+    font-family: 'Racing Sans One', sans-serif;
+}
+
+body {
+
+    background-color: black;
+}
+
+h1,
+h2,
+h3,
+label {
+    color: white;
+}
+
+td a {
+    color: red !important;
+}
+
+td a:hover {
+    color: black !important;
+}
+
+h1.black,
+label.black {
+    color: black !important;
+}
+
+input,
+select {
+    font-family: Arial, Helvetica, sans-serif;
+}
