@@ -2,9 +2,9 @@
 *Examen PHP Orienté Objet réalisé le 15/12/2023.*
 *Sujet créé par Aurélien Delorme pour le formation Développeur Web et Web Mobile de Human Booster.*
 
-##Concept Objet et modèle MVC
+## Concept Objet et modèle MVC
 
-###Sujet :
+### Sujet :
 Vous devez réaliser un CRUD afin de gérer les motos disponible pour le compte d’une concession 2 roues. 
 Le parc de moto sera composé de différentes marques. 
 Les motos vendues sont caractérisées par :  
@@ -13,7 +13,7 @@ Les motos vendues sont caractérisées par :
 -  Un type qui pourra être (Enduro, Custom, Sportive, Roadster)
 -  Une image (optionnel)
 
-###Objectifs :
+### Objectifs :
 - En tant qu’utilisateur, je peux me connecter avec un utilisateur présent dans la base de données présente en annexe 
 contenant actuellement un compte ayant pour identifiant admin et pour mot de passe admin. Pour hasher le mot de 
 passe, c’est la fonction hash_password qui a été utilisée avec l’algorithme BCRYPT (par défaut)
