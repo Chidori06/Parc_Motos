@@ -1,6 +1,6 @@
 # Parc_Motos
 
-*Examen PHP Orienté Objet réalisé le 15/12/2023.*
+*Examen PHP Orienté Objet réalisé le 15/12/2023.*  
 *Sujet créé par Aurélien Delorme pour la formation Développeur Web et Web Mobile de Human Booster.*
 
 ## Concept Objet et modèle MVC
@@ -15,8 +15,8 @@ Les motos vendues sont caractérisées par :
 
 ### Objectifs :
 - En tant qu’utilisateur, je peux me connecter avec un utilisateur présent dans la base de données présente en annexe 
-contenant actuellement un compte ayant pour identifiant admin et pour mot de passe admin. Pour hasher le mot de 
-passe, c’est la fonction hash_password qui a été utilisée avec l’algorithme BCRYPT (par défaut)
+contenant actuellement un compte ayant pour identifiant admin et pour mot de passe admin.  
+Pour hasher le mot de passe, c’est la fonction hash_password qui a été utilisée avec l’algorithme BCRYPT (par défaut).
 - En tant qu’utilisateur connecté, je peux ajouter une moto
 - En tant qu’utilisateur connecté, je peux avoir un listing de toutes les motos
 - En tant qu’utilisateur connecté, je peux voir le détail d’une moto 
